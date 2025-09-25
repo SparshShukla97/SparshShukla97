@@ -1,7 +1,7 @@
 ![MasterHead](https://www.worldbook.com/images/WBBlog_KidsCoding.jpg)
 <h1 align="center">Hi 👋, I'm Sparsh Shukla</h1>
 <h3 align="center">Master’s in Data Science student at RMIT University | Aspiring Data Analyst / Data Scientist</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+<img align="right" alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddi8pDm48kN1LwM8nF8Q2lP4TLUeswY17gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4Qxz8tVYz3X87ATdQYx7FOPk7J4Nai3nYkVt1AhdhHgY2ptMx0PtNAxWe8vVLEgo8GifptP7f8RnT3myAxmqk/1541580611624-TE64QGKRJG8SWAIUS7NS.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sparshshukla97&label=Profile%20views&color=0e75b6&style=flat" alt="sparshshukla97" /> </p>
 
